@@ -1,0 +1,36 @@
+[
+    {
+        "aname->abbr": {
+            "China": "CHN",
+            "United States": "USA",
+            "European Union": "EUR",
+            "Indonesia": "IDN",
+            "Hong Kong": "HKG",
+            "Japan": "JPN",
+            "South Korea": "KOR",
+            "Vietnam": "VNM",
+            "India": "IND",
+            "Germany": "DEU"
+        },
+        "地区->abbr": {
+            "中国": "CHN",
+            "美国": "USA",
+            "欧盟": "EUR",
+            "印度尼西亚": "IDN",
+            "香港": "HKG",
+            "日本": "JPN",
+            "韩国": "KOR",
+            "越南": "VNM",
+            "印度": "IND",
+            "德国": "DEU"
+        },
+        "货币->$abbr": {
+            "人民币": "CNY",
+            "美元": "USD",
+            "欧元": "EUR",
+            "日元": "JPY",
+            "港元": "HKD",
+            "印尼卢比": "IDR"
+        }
+    }
+]

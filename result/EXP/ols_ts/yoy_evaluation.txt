@@ -1,0 +1,3 @@
+next period prediction: 4.29
+fit direction ratio: 0.5949
+test direction ratio: 0.5
